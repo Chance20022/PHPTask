@@ -27,5 +27,5 @@
         $newStr = str_replace($numbers, $numberStr, $masStr);
 
         echo $newStr;
-    }
+    }//
 ?>
